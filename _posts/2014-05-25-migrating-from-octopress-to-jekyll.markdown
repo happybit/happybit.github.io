@@ -35,4 +35,5 @@ Besides, I could write and publish posts almost anywhere via:
 
 * [Prose.io](http://prose.io) on web;
 * [GitHub](https://play.google.com/store/apps/details?id=com.github.mobile) or [Jekyll](https://play.google.com/store/apps/details?id=gr.tsagi.jekyllforandroid) apps on Android; 
+* Just `clone` and `push` new post on another PC;
 
