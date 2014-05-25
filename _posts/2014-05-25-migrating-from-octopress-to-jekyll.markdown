@@ -39,4 +39,4 @@ Besides, I could write and publish posts almost anywhere via:
 * [GitHub](https://play.google.com/store/apps/details?id=com.github.mobile) or [Jekyll](https://play.google.com/store/apps/details?id=gr.tsagi.jekyllforandroid) apps on Android; 
 * Just `clone` and `push` new post on another PC;
 
-And then GitHub will take care of the rest :-) .
+And then GitHub will take care of the rest :smile: .
