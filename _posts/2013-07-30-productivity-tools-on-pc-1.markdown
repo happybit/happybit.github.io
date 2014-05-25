@@ -19,7 +19,7 @@ In the following days, I'd like to introduce below tools (yeah, I know you might
 3. [TotalCommand](http://blog.pzheng.info/blog/2013/08/19/productivity-tools-on-pc-3/)
 4. [DokuWiki](http://blog.pzheng.info/blog/2013/11/10/productivity-tools-on-pc-4/)
 5. [Outlook](http://blog.pzheng.info/blog/2013/11/18/productivity-tools-on-pc-5/)
-6. Dropbox
+6. [Dropbox](http://blog.pzheng.info/blog/2014/04/13/productivity-tools-on-pc-6/)
 7. AutoHotKey
 8. Emacs
 
