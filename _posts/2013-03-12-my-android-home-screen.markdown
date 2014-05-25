@@ -17,7 +17,7 @@ I customized the home screen of every android phone I have owned, for the same r
 * I see is what I want in only one screen
 * handy (maybe only for myself)
 
-{% img /images/androidhomescreen.png %}
+![Android home screen](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130312_androidhomescreen.png)
 
 **Attention**: I am not a minimalist, nor perfectionst. I know many details need to improve. (Clock time is incorrect, space, font, etc...) 
 

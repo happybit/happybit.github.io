@@ -21,19 +21,19 @@ Outlook is the only choice in my company to handle with E-mails. Normally, I wou
 
 Before you do anything, please firstly cancel Outlook alerts. Yes alerts will keep you following the updates in time. But most of the time it distracts me quite a bit. I'd check the outlook randomly after cancelling the alerts. Fortunately I haven't missed any urgent e-mails. 
 
-{% img /images/cancelalerts.jpg %}
+![Cancel alerts](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_cancelalerts.jpg)
 
 ### Rule #2: Regular PST 
 
 I would archive my PST file regularly, which means to create new PST file per six months. Since there might be unexpected problems when PST file is larger than 2Gb. And the naming rule is listed as below:
 
-{% img /images/PSThalfyear.jpg %}
+![PST half year](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_PSThalfyear.jpg)
 
 ### Rule #3: Organized Folders
 
 And in each PST, there are several organized folders based on different priorities. I would press `v` to move some useful items to corresponding folder via [AHK]().
 
-{% img /images/organizedfolder.jpg %}
+![Organized folder](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_organizedfolder.jpg)
 
 I will adjust the order and folder structure based on my needs at that time when initiate a new PST data file.
 
@@ -49,55 +49,55 @@ In GTD, the No. 1 rule is to keep inbox clean. However, with PIFEM, this inbox i
 
 Actually the essential of PIFEM is to use "Search Folders"/"Follow up"/"Category" flexibly. Here is my list of favorite folders.
 
-{% img /images/favoritefolders.jpg %}
+![Favorite folder](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_favoritefolders.jpg)
 
 ### Set up Search Folders
 
 You could follow below steps to set up new Search Folders.
 
-{% img /images/searchfolders.jpg %}
+![Search folder](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_searchfolders.jpg)
 
 #### Inbox (To Be Vetted)
 
 Here is the virtual "inbox" you have to cope with every now and then.
 
-{% img /images/vettedinbox.jpg %}
+![Vetted inbox](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_vettedinbox.jpg)
 
 #### Follow up (Today)
 
 All the mails you need to read/reply/finish will be found in this very folder. You just need to focus on this folder everyday and try your best to finish all of them by the end of day. That's it.
 
-{% img /images/followuptoday.jpg %}
+![followup today](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_followuptoday.jpg)
 
 #### Follow up (Later)
 
 All the mails you need to deal with on tomorrow or even later.
 
-{% img /images/followuplater.jpg %}
+![followup later](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_followuplater.jpg)
 
 #### Follow up (Maybe)
 
 All the mails you might read but with low priorities.
 
-{% img /images/followupmaybe.jpg %}
+![followup maybe](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_followupmaybe.jpg)
 
 #### Tasks - Delegate
 
 You might want to check those mails you sent out. For example, assign some tasks to somebody else. Or ask help from others. But you would forget if they miss that mail.
 
-{% img /images/delegatetask.jpg %}
+![delegate task](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_delegatetask.jpg)
 
 #### Inbox (Completed Today)
 
 This is just a folder to display those mails you have finished today. 
 
-{% img /images/completedtoday.jpg %}
+![completed today](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_completedtoday.jpg)
 
 #### Add Search Folders to Favorite Folders
 
 Finally you just need to add those new search folders to "Favorite Folders".
 
-{% img /images/addfavoritefolders.jpg %}
+![addfavorite folders](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_addfavoritefolders.jpg)
 
 ### Workflow
 
@@ -108,7 +108,7 @@ Finally you just need to add those new search folders to "Favorite Folders".
     - or flag it as "Tomorrow" or someday in the future;
     - or flag it as "No date";
   
-    {% img /images/newmail.jpg %}
+	![newmail](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_newmail.jpg)	
   
     Just remember to proceed mails appropriately and keep "Inbox (To Be Vetted)" empty.
   
@@ -120,7 +120,7 @@ Finally you just need to add those new search folders to "Favorite Folders".
 
 4. Actually all the mails are still in the real inbox. And it's kind of messy at first glance. So it's better to sort your real inbox weekly and only keep those unfinished items.
 
-    {% img /images/realinbox.jpg %}
+	![real inbox](https://dl.dropboxusercontent.com/u/6459697/blogimage/20131118_realinbox.jpg)
 
 ## Summary
 

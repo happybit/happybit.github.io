@@ -23,7 +23,7 @@ I'd like to use `Alt + F1` to call out _Everything_ from system tray. So I chang
 * New window Hotkey Modifier: `Alt` 
 * New window Hotkey Modifier: `VK_F1`
 
-{% img /images/everything_hotkey.png %}
+![Everything Hotkey](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130808_everything_hotkey.png)
 
 What? You need hot key to minimize it back to system tray? I bet you could try `Alt + F4` :-P
 
@@ -31,7 +31,7 @@ What? You need hot key to minimize it back to system tray? I bet you could try `
 
 As a fake minimalist, I'd like empty appearance when there is nothing in search bar, rather than bunch of non-sense files showing up. I just need to pick `Hide results when the search is empty` in `Tools --> Options --> View`.
 
-{% img /images/everything_hide_empty.png %}
+![Everything hide empty](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130808_everything_hide_empty.png)
 
 # Launchy
 
@@ -49,7 +49,7 @@ Firstly you need to rescan your program files folders, especially if you are mor
 
 Go to `Options --> Catalog`, add certain directories. Don't forget to add file type, e.g. `.exe` or `.lnk`, as well as option for sub-directories. Then click `Rescan Catalog`.
 
-{% img /images/launchy_settings.png %}
+![Launchy settings](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130808_launchy_settings.png)
 
 ## Plugins
 
@@ -60,5 +60,5 @@ But one plugin I use almost every day is `Runner`. Because portable _DokuWiki_ (
 So I just go to `Options --> Plugins` and add those executable files into `Runner` as the following screenshot. You could run other similar programs as well.
 
 {% img /images/launchy_plugin.png %}
-
+![Launchy plugin](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130808_launchy_plugin.png)
 

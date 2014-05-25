@@ -48,7 +48,7 @@ Add `[Layout]` in "wincmd.ini" as followings:
 
 You will see the change as below picture:
 
-{% img /images/totalcmd_driverlist.png %}
+![TotalCMD driverlist](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130819_totalcmd_driverlist.png)
 
 # Using Specific Configuration File
 

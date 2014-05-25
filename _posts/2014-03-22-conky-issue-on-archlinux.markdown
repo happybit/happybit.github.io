@@ -28,7 +28,7 @@ Please notice the autostart file might be different on different Linux distro.
 
 Attach my screenshot and `.conky` file.
 
-{% img https://dl.dropboxusercontent.com/u/6459697/blogimage/20140322_conky.png %}
+![conky](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140322_conky.png)
 
     alignment top_right
     

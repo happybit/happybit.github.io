@@ -14,7 +14,7 @@ A few days ago, I found myself wasn't so clear about soft and softer handover an
 
 Firstly, let's take a look at the overall picture of different handovers.
 
-{% img /images/handover.png %}
+![handover](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130402_handover.png)
 
 # UL SHO
 

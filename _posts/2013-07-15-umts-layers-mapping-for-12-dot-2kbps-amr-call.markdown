@@ -12,7 +12,7 @@ Every freshman needs to learn the channel mapping of different layers when commi
 
 Here is an abstract figure showing the mapping of Logical Channels and Transport Channels, taking 12.2kbps AMR call as an example. Wheneven my mind is messed up about it, I will glance below picture and recall quickly.
 
-{% img /images/122kbpsamrcall.png %}
+![12.2kbps AMR call](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130715_122kbpsamrcall.png)
 
 The biggest pipe stands for a radio link. And there are four Transport Channels for this radio link: DCH1, DCH2, DCH3 and DCH24. 
 

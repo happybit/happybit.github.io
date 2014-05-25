@@ -13,6 +13,7 @@ Right after posted ["My Android Home Screen"](http://blog.pzheng.info/blog/2013/
 It is ["Lightning Launcher"](https://play.google.com/store/apps/details?id=net.pierrox.lightning_launcher) which is really great on both conciseness and customization. Frankly, it's more powerful than ["Zeam Launcher"](https://play.google.com/store/apps/details?id=org.zeam) **from my own perspective**. 
 
 My new screen home is presented below:
-{% img /images/androidhomescreen2.jpg %}
+
+![android home screen 2](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130323_androidhomescreen2.jpg)
 
 The most attactive feature than Zeam Launcher is, no fixed dock on the bottom. Almost every inch of the screen could be customized, which is amazing :-)

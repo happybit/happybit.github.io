@@ -14,7 +14,7 @@ As we know, the channelization codes for physical channels in UMTS should be ort
 
 3GPP adopts [Hamamard Codes](http://en.wikipedia.org/wiki/Hadamard_code), a.k.a. Walsh Codes, to generate channelisation codes as below figure(from [WCDMA for UMTS HSPA Evolution and LTE 5th Edition](http://www.amazon.com/Harri-Holma-Antti-Toskala-Evolution/dp/B00AOTQMC2)). In UMTS, we usally call them OVSF(**O**rthogonal **V**ariable **S**preading **F**actor) codes.
 
-{% img /images/20140312_channelizationcodes.png %}
+![channelizationcodes](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140312_channelizationcodes.png)
 
 ## Orthogonal
 
@@ -48,10 +48,10 @@ One of my colleagues told me, in Linear Algebra, the missing bits would be fille
 
 It's more clear to draw an illustrator when the signal is one bit as "1". Because the chip duration T<sub>chip</sub> is fixed as 1/3840000 second. The spreading data with C<sub>4,4</sub> is longer than C<sub>2,2</sub>.
 
-{% img /images/20140312_non_orthogonal_1.png %}
+![Non-orthogonal 1](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140312_non_orthogonal_1.png)
 
 If the input data is (1, -1) and spread by C<sub>2,2</sub>. Then the output will be exactly the same as "1" spread by C<sub>4,4</sub>.
 
-{% img /images/20140312_non_orthogonal_2.png %}
+![Non-orthogonal 2](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140312_non_orthogonal_2.png)
 
 That's why certain code and its children codes are not orthogonal. And it is impossible for receiver to decode the original channel data respectively. 

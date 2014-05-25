@@ -12,8 +12,8 @@ The reason why ul-DPDCH is not supported for E-DPDCH with 2SF2+2SF4, is presente
 
 According to Table 0: Maximum number of simultaneously-configured uplink dedicated channels in TS25.213 as below, in case of 4 E-DPDCH channels, there should be no ul-DPDCH configured.
 
-{% img /images/3gpp_ts25213_table0.png %}
+![3gpp_ts25213_table0](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140309_3gpp_ts25213_table0.png)
 
 More specifically, you could refer to [3G Evolution: HSPA and LTE for Mobile Broadband](http://www.amazon.com/3G-Evolution-Second-Edition-Broadband/dp/0123745381). As you can see, when there are 2SF2+2SF4 E-DPDCH configured, there is no extra space for ul-DPDCH in terms of code tree.
 
-{% img /images/edpdch_with_and_without_dch.jpg %}
+![edpdch_with_and_without_dch](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140309_edpdch_with_and_without_dch.jpg)

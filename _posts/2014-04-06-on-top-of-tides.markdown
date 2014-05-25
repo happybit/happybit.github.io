@@ -12,7 +12,7 @@ Many guys on the internet highly recommended [On Top of Tides](http://www.amazon
 
 ## Introduction
 
-{% img http://img3.douban.com/lpic/s6584764.jpg %}
+![On top of tides](http://img3.douban.com/lpic/s6584764.jpg)
 
 In this book, the author [Wu Jun](https://sites.google.com/site/junwu02/home) who is the research scientist in Google, introduced the ups and downs of several world-wide known enterprises, most of which are IT companies in US, e.g. AT&T, IBM, Apple, Cisco, Motorola, Microsoft, Yahoo and Google, etc. Those firms are so famous that many of us may, more or less, have been aware of their history and current status. Even you are not so familiar with them, you could find the introduction on [Wikipedia](http://www.wikipedia.org).
 
