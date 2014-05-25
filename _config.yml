@@ -22,3 +22,7 @@ version:          1.0.0
 
 github:
   repo:           https://github.com/happybit/happybit.github.io
+
+# support emoji
+gems:
+  - jemoji
