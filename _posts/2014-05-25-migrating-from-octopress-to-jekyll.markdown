@@ -31,9 +31,12 @@ For instance, there is only one `master` branch for Jekyll and the structure of 
     ├── public
     └── README.md
 
+Though Jekyll on GitHub is unable to support plugins due to security risks. Fortunately, I just need a very simple blog site and am not eager for those fancy features introduced by various plugins.
+
 Besides, I could write and publish posts almost anywhere via:
 
 * [Prose.io](http://prose.io) on web;
 * [GitHub](https://play.google.com/store/apps/details?id=com.github.mobile) or [Jekyll](https://play.google.com/store/apps/details?id=gr.tsagi.jekyllforandroid) apps on Android; 
 * Just `clone` and `push` new post on another PC;
 
+And then GitHub will take care of the rest :-) .
