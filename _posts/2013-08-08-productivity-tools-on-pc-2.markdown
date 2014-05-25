@@ -59,6 +59,5 @@ But one plugin I use almost every day is `Runner`. Because portable _DokuWiki_ (
 
 So I just go to `Options --> Plugins` and add those executable files into `Runner` as the following screenshot. You could run other similar programs as well.
 
-{% img /images/launchy_plugin.png %}
 ![Launchy plugin](https://dl.dropboxusercontent.com/u/6459697/blogimage/20130808_launchy_plugin.png)
 
