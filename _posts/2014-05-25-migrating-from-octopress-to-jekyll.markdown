@@ -10,7 +10,7 @@ Just remind you, this site has been migrated from [Octopress](http://octopress.o
 
 <!--more-->
 
-Honestly, Octopress is so far so good as a blog framework. It's simple and static. And it supports markdown syntax naturally without needing any dedicated webhost, since it could be hosted on [GitHub](http://github.com). However, the biggest problem to me is, the whole site needs to be deloyed **locally** whenever I am going to post new article, which mean I can hardly publish posts conveniently on the other computer except my home PC. 
+Honestly, Octopress is so far so good as a blog framework. It's simple and static. And it supports markdown syntax naturally without needing any dedicated webhost, since it could be hosted on [GitHub](http://github.com). However, the biggest problem to me is, the whole site needs to be deloyed **locally** whenever I am going to post new article, which means I can hardly publish posts conveniently on the other computer except my home PC. 
 
 After searching around, I found Jekyll, as the basic framework of Octopress, could be easily depoyed on GitHub as well(so it's extremely easy for migration). Thus it's also simple and static. Even better than Octopress in terms of simplicity.
 
