@@ -1,7 +1,6 @@
-
 ---
 layout: post
-title: "RACH Part 1 - Access Slot and Sub-channel"
+title: "RACH Part 1: Access Slot and Sub-channel"
 date: 2014-05-25 18:55:08 +0800
 comments: true
 categories: Radioaccess
