@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "RACH Part 1 - Access Slot and Sub-channel"
@@ -32,7 +33,7 @@ Here is the table for available uplink access slots for different RACH sub-chann
 
 Some guys might be confused by above table. So I drew another figure by taking SFN 96~103 as example. SFN 104 is the same as SFN 96 due to the cycle period of 80ms.
 
-![RACH part 1_2](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140525_rach_part1_2.png)
+![RACH part 1_2](ohttps://dl.dropboxusercontent.com/u/6459697/blogimage/20140525_rach_part1_2.png)
 
 ## Summary
 
