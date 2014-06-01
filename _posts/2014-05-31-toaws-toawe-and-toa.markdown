@@ -6,11 +6,11 @@ comments: true
 categories: Radioaccess
 ---
 
-Last time one of my colleague asked me what was *TOAWS*, *TOAWE* and *TOA*. I knew it related to Frame Protocol and *TOA* was time of arrival. But I cannot remember any more. So I did some investigation and here are some notes.
+Last time one of my colleagues asked me what was *TOAWS*, *TOAWE* and *TOA*. I knew it related to Frame Protocol and *TOA* was time of arrival. But I cannot remember any more. So I did some investigation and here are some notes.
 
 <!--more-->
 
-These definitions were initiated by Nokia in [Tdoc R3-99663](http://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_05/docs/Zips/R3-99663.zip) and refined by Ericsson in [Tdoc R3-99875](http://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_06/docs/Pdfs/r3-99875.pdf) in 1999. Please note, in R3-99875, it mentioned 3GPP [TS25.401](http://www.3gpp.org/DynaReport/25401.htm)(V1.2.1) would be updated accordingly. But later "the synchronisation in UTRAN" was seperated as an individual 3GPP [TS25.402](http://www.3gpp.org/DynaReport/25402.htm). So the official definitions are presented in sub-clause 5 of TS25.402(V11.0.0) while the mechanism is introduced in sub-clause 7. of the same 3GPP technical specification.
+These definitions were initiated by Nokia in [Tdoc R3-99663](http://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_05/docs/Zips/R3-99663.zip) and refined by Ericsson in [Tdoc R3-99875](http://www.3gpp.org/ftp/tsg_ran/WG3_Iu/TSGR3_06/docs/Pdfs/r3-99875.pdf) in 1999. Please note, in R3-99875, it mentioned 3GPP [TS25.401](http://www.3gpp.org/DynaReport/25401.htm)(V1.2.1) would be updated accordingly. But later "the synchronisation in UTRAN" was seperated as an individual 3GPP [TS25.402](http://www.3gpp.org/DynaReport/25402.htm). So now the official definitions are presented in sub-clause 5 of TS25.402(V11.0.0) while the mechanism is introduced in sub-clause 7 of the same 3GPP technical specification.
 
 These three timers are used for transport channel synchronisation, more specification, timing adjustment on Iub/Iur. Figure 10 in TS25.402 explains how it works.
 
