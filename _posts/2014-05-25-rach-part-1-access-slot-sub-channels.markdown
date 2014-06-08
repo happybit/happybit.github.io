@@ -38,4 +38,4 @@ Some guys might be confused by above table. So I drew another figure by taking S
 
 Access slot is basic timing unit for R99 RACH for aligning PRACH preamble and AICH channel. Sub-channel is the available set of access slots for certain UE. In my view, sub-channel is the possibility for UE to initiate PRACH preamble. The more available sub-channels, the more possibility to establish a call successfully, especially when there are large quantity of UEs with BHCA (busy hour call attempt).
 
-Regarding how to map sub-channels to certain UE, I will illustrate it in next posts.
+Regarding how to map sub-channels to certain UE, I will illustrate it in [next posts](% post_url 2014-06-08-rach-part-2-ac-and-asc %).
