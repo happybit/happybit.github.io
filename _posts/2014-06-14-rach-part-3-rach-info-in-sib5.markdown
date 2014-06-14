@@ -24,5 +24,5 @@ The mapping for available sub-channels is kind of tricky between *PRACH Partitio
 
 So now we can see the whole mapping is presented as below.
 
-![Mapping](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140614_rach_part3_sib5_sib5bis.png)
+![Mapping](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140614_rach_part3_mapping.png)
 
