@@ -27,7 +27,7 @@ For simplicity, let's assume:
 
 in above formula, *d<sub>UE</sub>* is the distance between Node B and UE while *C<sub>light</sub>* is the light speed, i.e. 3e8 meters per second.
 
-In case the cell radius is 20 kilometers, *t<sub>AIF</sub>* is 0.0667 millisecond. Therefore we can calculate the maximum allowed *t<sub>proc</sub>* is 0.8 millisecond. And the more cell radius, the less *t<sub>proc</sub>* is allowed. So generally, the vendor will limit the maximum cell radius(for instance 60 km) when *AICH transmission timing* 0 is used by the operators. 
+In case the cell radius is 20 kilometers, *t<sub>AIF</sub>* is 0.0667 millisecond. Therefore we can calculate the maximum allowed *t<sub>proc</sub>* is 0.8 millisecond. And the more cell radius, the less *t<sub>proc</sub>* is allowed. So generally, the vendors will limit the maximum cell radius(for instance 60 km) when *AICH transmission timing* 0 is used by the operators. 
 
 
 
