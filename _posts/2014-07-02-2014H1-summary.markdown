@@ -1,0 +1,60 @@
+---
+layout: post
+title: "2014H1 Summary"
+date: 2014-07-02 21:11:08 +0800
+comments: true
+categories: Others
+---
+
+Every weekend, I would spend less than half an hour to summarize my personal and work issues during the past week according to my Emacs Org-mode records. And every week, I will collect all the weekly summaries to check current status as well as look forward to the future. Yes. I admit that I am kind of boring with regular habits. So here comes my 2014 first half year book.
+
+<!--more-->
+
+## Learning
+
+* Only learned a bit of LTE which was interrupted later by heavy workload;
+* Tried to self learn Android development and Java. Suspended right now;
+* Finished below six books while several unlisted are still ongoing:
+  * *Joel on Software* by *Joel Spolsky*;
+  * [*On top of tides*](http://blog.pzheng.info/blog/2014/04/06/on-top-of-tides/) 《浪潮之巅》 by Wu Jun 吴军  
+  * *The Seven Habits of Highly Effective People* by *Stephen R.Covey*
+  * *Blossoms*《繁花》 by *Jin Yucheng* 金宇澄;
+  * *Lo Shu Square & Ho Tu*《洛书河图》 by *A Cheng* 阿城;
+  * *The Monk* 《道士下山》 by *Xu Haofen* 徐皓峰
+
+## Work
+
+* From January to Mid May, major effort was spend on new feature Enhanced CELL_FACH, including:
+  * Enhanced CELL_FACH feature learning;
+  * Enhanced CELL_FACH feature basic testing;
+  * Enhanced CELL_FACH feature workshop;
+* From Mid May to present, mainly focus on:
+  * Testing efficiency investigation and improvement in new team;
+  * New features testing plan for a brand new product in our company;
+
+## Personal
+
+* Major change is job rotation. Internally transferred to another team for a new product;
+* In March, caught some ailment but fortunately not serious. 
+* Helped my sister to build her personal website [Xinyue](www.xinyue.in);
+* Two domestic trips:
+  * Xi'an in April;
+  * Beijing business trip in May;
+* Formed two habits:
+  * Get up early in the morning(6:00-6:30 AM);
+  * Write blog post weekly no matter how busy I am (hasn't formed yet :sob:);
+
+## Summary
+
+* Learning: neither learned much new knowledge nor read enough books;
+* Work: Enhanced CELL_FACH is a complicated feature. I was really glad to take this challenge. From learning, to testing, then training, I have learned a lot; 
+* Work: After transferred to new team, the tasks and workload were suddenly increased. Super busy;
+* Personal: tried to step out of the comfort zone and got some outside opportunities. But finally decided to stay (many thanks to my former and current managers); 
+
+## Next
+
+* Need to focus on limited things for self-learning;
+* Work efficiency needs to be improved further because too many things have to learn for this new product. Need more focus and concentration;
+* Excersice should be on my list next half year;
+* Make better use of fragmentary time;
+* Plan my life according to the long term and short term target;
