@@ -16,11 +16,11 @@ Every weekend, I would spend less than half an hour to summarize my personal and
 * Tried to self learn Android development and Java. Suspended right now;
 * Finished below six books while several unlisted are still ongoing:
   * *Joel on Software* by *Joel Spolsky*;
-  * [*On top of tides*](http://blog.pzheng.info/blog/2014/04/06/on-top-of-tides/) 《浪潮之巅》 by *Wu Jun* 吴军  
-  * *The Seven Habits of Highly Effective People* by *Stephen R.Covey*
+  * [*On top of tides*](http://blog.pzheng.info/blog/2014/04/06/on-top-of-tides/) 《浪潮之巅》 by *Wu Jun* 吴军 ;
+  * *The Seven Habits of Highly Effective People* by *Stephen R.Covey*;
   * *Blossoms*《繁花》 by *Jin Yucheng* 金宇澄;
   * *Lo Shu Square & Ho Tu*《洛书河图》 by *A Cheng* 阿城;
-  * *The Monk* 《道士下山》 by *Xu Haofen* 徐皓峰 [^1]
+  * *The Monk* 《道士下山》 by *Xu Haofen* 徐皓峰 [^1];
 
 ## Work
 
@@ -35,7 +35,7 @@ Every weekend, I would spend less than half an hour to summarize my personal and
 ## Personal
 
 * Major change is job rotation. Internally transferred to another team for a new product;
-* In March, caught some ailment and fortunately not serious. 
+* In March, caught some ailment and fortunately not serious;
 * Helped my sister to build her personal website [Xinyue](www.xinyue.in);
 * Two domestic trips:
   * Xi'an in April;
@@ -60,4 +60,4 @@ Every weekend, I would spend less than half an hour to summarize my personal and
 * Plan my life according to the long term and short term target;
 
 ----
-[^1] [Chen Kaige](http://en.wikipedia.org/wiki/Chen_Kaige) is directing a new film based on this novel.
+[^1]: [Chen Kaige](http://en.wikipedia.org/wiki/Chen_Kaige) is directing a new film based on this novel.
