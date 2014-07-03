@@ -24,11 +24,11 @@ At the place you want to insert the subscript, just add `[^1]`. You can choose w
 
     [^1]: here is an example of footnote.
 
-Please don't forget the colon mark after `[^1]`.
+Please don't forget the colon mark next to `[^1]`.
 
 ## Disqus Comments
 
-Insert below codes at the end of `_layout/post.html`:
+Insert below codes at the end of `_layouts/post.html`:
 
 {% highlight html %}{% raw %}
 <div id="disqus_thread"></div>
@@ -48,7 +48,7 @@ Insert below codes at the end of `_layout/post.html`:
 
 ## Next/Previous Post Navigator
 
-Insert below codes between `post` div and Disqus part in `_layout/post.html`.
+Insert below codes between `post` div and Disqus part in `_layouts/post.html`.
 
 {% highlight html %}{% raw %}
 <div class="navigator">
@@ -63,11 +63,11 @@ Insert below codes between `post` div and Disqus part in `_layout/post.html`.
 
 ## Archive Page
 
-Create new file `archive.html` in root directory as [this one](https://raw.githubusercontent.com/happybit/happybit.github.io/master/archive.html).
+Create new file `archive.html` in root directory as [this file](https://raw.githubusercontent.com/happybit/happybit.github.io/master/archive.html).
 
 ## Category Page
 
-Create new file `categories.html` in root directory as [this one](https://raw.githubusercontent.com/happybit/happybit.github.io/master/categories.html).
+Create new file `categories.html` in root directory as [this file](https://raw.githubusercontent.com/happybit/happybit.github.io/master/categories.html).
 
 You can display category for each post. Just need to add below line in `_layouts/post.html`:
 
