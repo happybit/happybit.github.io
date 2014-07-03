@@ -5,7 +5,7 @@ title: Categories
 
 <section id="categories">
 {% for category in site.categories %}
- <h2 name="{{ category | first }}">{{ category | first }}</h2>
+ <h3 name="{{ category | first }}">{{ category | first }}</h3>
     <ul>
     {% for posts in category %}
       {% for post in posts %}
