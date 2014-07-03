@@ -5,11 +5,8 @@ layout: default
 <div class="post">
   <h1 class="post-title">{{ page.title }}</h1>
   <span class="post-date">{{ page.date | date_to_string }}</span>
+  <span style="float:right">{% for category in page.categories %}<a href="{{ site.url }}/categories.html#{{ category | first }}" title="Pages categorized {{ category | first }}" rel="category">{{ category | first }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</span>
   {{ content }}
-</div>
-
-<div class="category">
-<span style="float:right"><a href="{{ site.url }}/categories.html#{{ page.category }}" title="Pages categorized {{ page.category }}" rel="category">Category: {{ page.category }}</a></span>
 </div>
 
 <div class="neighbor">
