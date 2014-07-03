@@ -30,7 +30,7 @@ Please don't forget the colon mark after `[^1]`.
 
 Insert below codes at the end of `_layout/post.html`:
 
-{% raw %}
+{% highlight html %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -44,77 +44,28 @@ Insert below codes at the end of `_layout/post.html`:
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endraw %}
+{% endhighlight %}
 
 ## Next/Previous Post Navigator
 
 Insert below codes between `post` div and Disqus part in `_layout/post.html`.
 
-{% raw %}
-<div class="navigator">
-  {% if page.previous %}
-      <span style="float:left"><a href="{{ page.previous.url }}">« {{ page.previous.title }}</a></span>
-  {% endif %}
-  {% if page.next %}
-      <span style="float:right"><a href="{{ page.next.url }}">{{ page.next.title }} »</a></span>
-  {% endif %}
-</div>
-{% endraw %}
+    <div class="navigator">
+      {% if page.previous %}
+          <span style="float:left"><a href="{{ page.previous.url }}">« {{ page.previous.title }}</a></span>
+      {% endif %}
+      {% if page.next %}
+          <span style="float:right"><a href="{{ page.next.url }}">{{ page.next.title }} »</a></span>
+      {% endif %}
+    </div>
 
 ## Archive Page
 
-Create new file `archive.html` in root directory.
-
-{% raw %}
----
-layout: page
-title: Archive
----
-<section id="archive">
-  <h2>This year's posts</h2>
-{% for post in site.posts %}
-  {% unless post.next %}
-  <ul class="this">
-  {% else %}
-  {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
-  {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
-  {% if year != nyear %}
-  </ul>
-  <h2>{{ post.date | date: '%Y' }}</h2>
-  <ul class="past">
-  {% endif %}
-  {% endunless %}
-    <li><time>{{ post.date | date:"%d %b » " }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
-{% endfor %}
-  </ul>
-</section>
-{% endraw %}
+Create new file `archive.html` in root directory as [this one](https://raw.githubusercontent.com/happybit/happybit.github.io/master/archive.html).
 
 ## Category Page
 
-Create new file `categories.html` in root directory.
-
-{% raw %}
----
-layout: page
-title: Categories
----
-
-<section id="categories">
-{% for category in site.categories %}
- <h3 id="{{ category | first }}">{{ category | first }}</h3>
-    <ul>
-    {% for posts in category %}
-      {% for post in posts %}
-        {% if post.url %}
-          <li><a href="{{ post.url }}">{{ post.title }}</a></li>
-	{% endif %}
-      {% endfor %}
-    {% endfor %}
-    </ul>
-{% endfor %}
-</section>
-{% endraw %}
+Create new file `categories.html` in root directory as [this one](https://raw.githubusercontent.com/happybit/happybit.github.io/master/categories.html).
 
 ## Search & Feed
 
