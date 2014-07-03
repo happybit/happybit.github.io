@@ -59,6 +59,68 @@ Insert below codes between `post` div and Disqus part in `_layout/post.html`.
 
 ## Archive Page
 
+Create new file `archive.html` in root directory.
 
+    ---
+    layout: page
+    title: Archive
+    ---
+    <section id="archive">
+      <h2>This year's posts</h2>
+    {% for post in site.posts %}
+      {% unless post.next %}
+      <ul class="this">
+      {% else %}
+      {% capture year %}{{ post.date | date: '%Y' }}{% endcapture %}
+      {% capture nyear %}{{ post.next.date | date: '%Y' }}{% endcapture %}
+      {% if year != nyear %}
+      </ul>
+      <h2>{{ post.date | date: '%Y' }}</h2>
+      <ul class="past">
+      {% endif %}
+      {% endunless %}
+        <li><time>{{ post.date | date:"%d %b » " }}</time><a href="{{ post.url }}">{{ post.title }}</a></li>
+    {% endfor %}
+      </ul>
+    </section>
 
 ## Category Page
+
+Create new file `categories.html` in root directory.
+
+    ---
+    layout: page
+    title: Categories
+    ---
+    
+    <section id="categories">
+    {% for category in site.categories %}
+     <h3 id="{{ category | first }}">{{ category | first }}</h3>
+        <ul>
+        {% for posts in category %}
+          {% for post in posts %}
+            {% if post.url %}
+              <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+    	{% endif %}
+          {% endfor %}
+        {% endfor %}
+        </ul>
+    {% endfor %}
+    </section>
+
+## Search & Feed
+
+You can customize [Google](https://www.google.com/cse/all) search for your personal website. After get your specific URL, just paste into the appropriate place in `_includes/sidebar.html`:
+
+    <a class="sidebar-nav-item" href="https://www.google.com:443/cse/publicurl?cx=xxxxxxxxxxxxx">Search</a>
+	
+Similarly, you can get the feed URL via [FeedBurner](www.feedburner.com).
+
+    <a class="sidebar-nav-item" href="http://feeds.feedburner.com/knoise">RSS</a>
+
+## Google Analytics
+
+Create new file `_includes/google_analytics.html` and paste your Google Analytics scripts. Then insert below line before `<body>` in `_layouts/default.html`:
+
+    {% include google_analytics.html %}
+
