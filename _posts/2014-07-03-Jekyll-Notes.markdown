@@ -30,7 +30,7 @@ Please don't forget the colon mark after `[^1]`.
 
 Insert below codes at the end of `_layout/post.html`:
 
-{% highlight html %}
+{% raw %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -44,13 +44,13 @@ Insert below codes at the end of `_layout/post.html`:
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endhighlight %}
+{% endraw %}
 
 ## Next/Previous Post Navigator
 
 Insert below codes between `post` div and Disqus part in `_layout/post.html`.
 
-{% highlight html %}
+{% raw %}
 <div class="navigator">
   {% if page.previous %}
       <span style="float:left"><a href="{{ page.previous.url }}">« {{ page.previous.title }}</a></span>
@@ -59,13 +59,13 @@ Insert below codes between `post` div and Disqus part in `_layout/post.html`.
       <span style="float:right"><a href="{{ page.next.url }}">{{ page.next.title }} »</a></span>
   {% endif %}
 </div>
-{% endhighlight %}
+{% endraw %}
 
 ## Archive Page
 
 Create new file `archive.html` in root directory.
 
-{% highlight html %}
+{% raw %}
 ---
 layout: page
 title: Archive
@@ -88,13 +88,13 @@ title: Archive
 {% endfor %}
   </ul>
 </section>
-{% endhighlight %}
+{% endraw %}
 
 ## Category Page
 
 Create new file `categories.html` in root directory.
 
-{% highlight html %}
+{% raw %}
 ---
 layout: page
 title: Categories
@@ -114,7 +114,7 @@ title: Categories
     </ul>
 {% endfor %}
 </section>
-{% endhighlight %}
+{% endraw %}
 
 ## Search & Feed
 
