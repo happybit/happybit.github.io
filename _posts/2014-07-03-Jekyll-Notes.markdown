@@ -6,7 +6,7 @@ comments: true
 categories: Others
 ---
 
-As I mentioned in [previous post](http://blog.pzheng.info/blog/2014/05/25/migrating-from-octopress-to-jekyll/), Jekyll on GitHub is lack of some basic features such as category and archive pages since it doesn't support plugins. Here is how to add those features without plugin support. Of course, all tips were found from the open internet :smilesmile:.
+As I mentioned in [previous post](http://blog.pzheng.info/blog/2014/05/25/migrating-from-octopress-to-jekyll/), Jekyll on GitHub is lack of some basic features such as category and archive pages since it doesn't support plugins. Here is how to add those features without plugin support. Of course, all tips were found from the open internet :smile:.
 
 <!--more-->
 
@@ -30,7 +30,7 @@ Please don't forget the colon mark after `[^1]`.
 
 Insert below codes at the end of `_layout/post.html`:
 
-{% highlight html %}
+{% highlight html %}{% raw %}
 <div id="disqus_thread"></div>
 <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
@@ -44,20 +44,22 @@ Insert below codes at the end of `_layout/post.html`:
     })();
 </script>
 <noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-{% endhighlight %}
+{% endraw %}{% endhighlight %}
 
 ## Next/Previous Post Navigator
 
 Insert below codes between `post` div and Disqus part in `_layout/post.html`.
 
-    <div class="navigator">
-      {% if page.previous %}
-          <span style="float:left"><a href="{{ page.previous.url }}">« {{ page.previous.title }}</a></span>
-      {% endif %}
-      {% if page.next %}
-          <span style="float:right"><a href="{{ page.next.url }}">{{ page.next.title }} »</a></span>
-      {% endif %}
-    </div>
+{% highlight html %}{% raw %}
+<div class="navigator">
+  {% if page.previous %}
+      <span style="float:left"><a href="{{ page.previous.url }}">« {{ page.previous.title }}</a></span>
+  {% endif %}
+  {% if page.next %}
+      <span style="float:right"><a href="{{ page.next.url }}">{{ page.next.title }} »</a></span>
+  {% endif %}
+</div>
+{% endraw %}{% endhighlight %}
 
 ## Archive Page
 
@@ -81,5 +83,6 @@ Similarly, you can get the feed URL via [FeedBurner](www.feedburner.com).
 
 Create new file `_includes/google_analytics.html` and paste your Google Analytics scripts. Then insert below line before `<body>` in `_layouts/default.html`:
 
-    {% include google_analytics.html %}
-
+{% highlight html %}{% raw %}
+{% include google_analytics.html %}
+{% endraw %}{% endhighlight %}
