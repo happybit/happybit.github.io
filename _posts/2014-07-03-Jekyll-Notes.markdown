@@ -69,6 +69,12 @@ Create new file `archive.html` in root directory as [this one](https://raw.githu
 
 Create new file `categories.html` in root directory as [this one](https://raw.githubusercontent.com/happybit/happybit.github.io/master/categories.html).
 
+You can display category for each post. Just need to add below line in `_layouts/post.html`:
+
+{% highlight html %}{% raw %}
+<span class="post-date">{{ page.date | date_to_string }}&nbsp;&nbsp;&nbsp;Category: {% for category in page.categories %}<a href="{{ site.url }}/categories.html#{{ category }}" title="Pages categorized {{ category }}" rel="category">{{ category }}</a>{% unless forloop.last %} &bull; {% endunless %}{% endfor %}</span>
+{% endraw %}{% endhighlight %}
+
 ## Search & Feed
 
 You can customize [Google](https://www.google.com/cse/all) search for your personal website. After get your specific URL, just paste into the appropriate place in `_includes/sidebar.html`:
