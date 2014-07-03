@@ -83,6 +83,5 @@ Similarly, you can get the feed URL via [FeedBurner](www.feedburner.com).
 
 Create new file `_includes/google_analytics.html` and paste your Google Analytics scripts. Then insert below line before `<body>` in `_layouts/default.html`:
 
-{% highlight html %}{% raw %}
-{% include google_analytics.html %}
-{% endraw %}{% endhighlight %}
+    {{ "{%" }}  include google_analytics.html %}
+
