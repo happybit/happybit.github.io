@@ -7,9 +7,4 @@ sharing: false
 footer: true
 ---
 
-**pzheng**  
-
-Major in UMTS/testing
-
-Interested in radio access, productivity, reading, etc
-
+A software tester in telecom industry who is interested in radio access, productivity, reading, etc.
