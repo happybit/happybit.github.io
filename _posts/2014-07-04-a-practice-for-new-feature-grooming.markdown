@@ -24,17 +24,17 @@ categories: Testing
 
 ## Table Of Contents
 
-0. [Origin](#Origin)
-1. [Ideas](#Ideas)
-2. [Implementation](#Implementation)
-	* [Background](#Background)
-	* [Split requirements](#Split-requirements)
-	* [Add more check points](#Add-more-check-points)
-	* [Prioritize](#Prioritize)
-	* [Design test cases](#Design-test-cases)
-	* [Analyze uncovered points](#Analyze-uncovered-points)
-3. [Known issues](#Known-issues)
-4. [Summary](#Summary)
+	0. [Origin](#origin)
+	1. [Ideas](#ideas)
+	2. [Implementation](#implementation)
+		* [Background](#background)
+		* [Split requirements](#split-requirements)
+		* [Add more check points](#add-more-check-points)
+		* [Prioritize](#prioritize)
+		* [Design test cases](#design-test-cases)
+		* [Analyze uncovered points](#analyze-uncovered-points)
+	3. [Known issues](#known-issues)
+	4. [Summary](#summary)
 
 ## Origin
 
