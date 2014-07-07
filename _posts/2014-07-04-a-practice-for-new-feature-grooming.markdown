@@ -22,6 +22,20 @@ categories: Testing
 
 “…”
 
+## Table Of Contents
+
+0. [Origin](#Origin)
+1. [Ideas](#Ideas)
+2. [Implementation](#Implementation)
+	* [Background](#Background)
+	* [Split requirements](#Split-requirements)
+	* [Add more check points](#Add-more-check-points)
+	* [Prioritize](#Prioritize)
+	* [Design test cases](#Design-test-cases)
+	* [Analyze uncovered points](#Analyze-uncovered-points)
+3. [Known issues](#Known-issues)
+4. [Summary](#Summary)
+
 ## Origin
 
 特性需求的覆盖率，算是测试界经久不衰的话题。不同产品不同层级的测试，对需求的覆盖要求和测试粒度都不尽相同。但无论如何，即使测试资源充足，100%需求覆盖率也是不可能的。更何况现实中，测试资源和交付日期永远是紧张的。盲目追求所谓100%覆盖率，只会使边际效应愈发明显，性价比颇低。
