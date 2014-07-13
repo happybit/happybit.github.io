@@ -12,7 +12,7 @@ categories: Productivity
 
 <!--more-->
 
-大师言出必行，让我们看看他老人家的办公室及桌面。下面[这张照片](http://life.time.com/?attachment_id=13800)拍摄于1955年4月爱因斯坦去世几小时后，他在Princeton的办公室。
+大师言出必行，让我们看看他老人家的办公室及桌面。下面[这张照片](http://life.time.com/?attachment_id=13800)是Princeton他的办公室，摄于1955年4月爱因斯坦去世几小时后。
 
 ![Albert Einstein’s office](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140713_albert_einstein_desk.png)
 
