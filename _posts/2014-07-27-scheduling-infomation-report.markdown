@@ -6,7 +6,7 @@ comments: true
 categories: Radioaccess
 ---
 
-About half an year ago, we met a problem which resulted in dramastic ups and downs during load testing. Finally we found it was caused by Scheduling Information(SI) reporting. Here are some learning notes about SI.
+About half an year ago, we met a problem which resulted in data rate with dramastically ups and downs during load testing. Finally we found it was caused by Scheduling Information(SI) reporting. Here are some learning notes about SI.
 
 <!--more-->
 
