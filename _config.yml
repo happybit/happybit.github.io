@@ -13,10 +13,11 @@ tagline:          ''
 description:      ''
 url:              http://blog.pzheng.info
 paginate:         5
+baseurl:              http://blog.pzheng.info
 
 author:
   name:           'pzheng'
-  url:            
+  url:            http://blog.pzheng.info
 
 # Custom vars
 version:          1.0.0
