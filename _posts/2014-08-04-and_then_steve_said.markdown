@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "And then Steve Said"
+title: "And Then Steve Said"
 date: 2014-08-04 12:15
 comments: true
 categories: Reading
