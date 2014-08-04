@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: "HS-SCCH Number Configuration"
@@ -23,9 +24,9 @@ The whole process is like this:
 
 According to [TS25.212](http://www.3gpp.org/ftp/Specs/html-info/25212.htm) section 4.6.2.3, P and O should fulfil the following formula:
 
-  |*O*-1-|\_*P*/8\_| * 15| mod 2 = (HS-SCCH number) mod 2
+    |*O*-1-|\_*P*/8\_| * 15| mod 2 = (HS-SCCH number) mod 2
 
-*P* stands for the total HS-PDSCH code number, while *O* the start HS-PDSCH code number. |\_*x*\_| means downward round.
+    *P* stands for the total HS-PDSCH code number, while *O* the start HS-PDSCH code number. |\_*x*\_| means downward round.
 
 Generally, HS-SCCH number is the index of HS-SCCH codes in radio link set up response message (step #3). For example, in one cell, there are 4 HS-SCCH codes, 4, 8, 9 and 10 in a row. UE 0 is assigned as 4/8/9, and UE 1 as 8/9/10, UE 2 as 8/10/4, etc. For UE 0, the HS-SCCH number for code 4 is 1, code 8 is 2, code 9 is 3. The same is applicable for UE 1, 2, and so forth.
 
