@@ -13,7 +13,6 @@ tagline:          ''
 description:      ''
 url:              http://blog.pzheng.info
 paginate:         5
-baseurl:              http://blog.pzheng.info
 
 author:
   name:           'pzheng'
