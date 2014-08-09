@@ -6,7 +6,7 @@ comments: true
 categories: Testing
 ---
 
-Power Control(PC) is one of the most important features in WCDMA technology. Here I'd like to introduce something Inner Loop Power Control(ILPC).
+Power Control(PC) is one of the most important features in WCDMA technology. Here I'd like to introduce the Inner Loop Power Control(ILPC).
 
 <!--more-->
 
