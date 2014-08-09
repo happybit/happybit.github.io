@@ -50,7 +50,7 @@ Meanwhile, from Node B point of view, there are:
 
 * Outer loop power control
 
-  Outer loop power control, a.k.a. OLPC, is mainly proceeded in RNC to derive the SIR target for UL physical channels based on the calculated BLER as well as BLER target. And then RNC will send this SIR target to Node B via FP Control Frame for inner loop power control. 
+  Outer loop power control, a.k.a. OLPC, is mainly proceeded in RNC to derive the SIR target for UL physical channels based on the calculated BLER as well as BLER target. And then RNC will send this SIR target via FP Control Frame to Node B for inner loop power control. 
 
 * Inner loop power control
 
