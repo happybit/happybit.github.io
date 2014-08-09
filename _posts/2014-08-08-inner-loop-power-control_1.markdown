@@ -30,9 +30,9 @@ From "feedback" perspective, there are two kinds of power control:
 
   Before I was using "feedback" but later I found "direct adjustment indicator" was more accurate. For instance, the power control for PRACH preamble is open loop during random access procedure. If no AICH(acknowledge for PRACH preamble) was received by UE, the preamble power shall increase step by step(power ramp step) till:
 	    
-	1. Maximum preamble retransmission number is reached; or
-	2. Maximum preamble power is reached; or
-	3. AICH, either ACK or NACK, is finially received by UE;
+  1. Maximum preamble retransmission number is reached; or
+  2. Maximum preamble power is reached; or
+  3. AICH, either ACK or NACK, is finially received by UE;
 
   So actually there is feedback, i.e. AICH, from Node B to UE. However there is no way for Node B to directly inform UE to increase or decrease the power of PRACH preamble. In fact, sort of like one way street, UE could only increase the power or even stop but is forbidden to decrease it during random access procedure.
 
@@ -56,6 +56,6 @@ Meanwhile, from Node B point of view, there are:
 
   As mentioned before, both Node B and UE could sent TPC command carried on DPCCH to each other to tell them to calibrate the power of the corresponding physical channels.
 
-In my view, both OLPC and ILPC are closed loop power control. In my company, we usually use CLPC in our daily work which actually refers to ILPC.
+I think both OLPC and ILPC are closed loop power control. In my company, we usually use CLPC which actually refers to ILPC in our daily work .
 
-    ![Power control intro](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140808_inner_outer_loop_power_control.png)
+  ![Power control intro](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140808_inner_outer_loop_power_control.png)
