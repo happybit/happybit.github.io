@@ -6,7 +6,7 @@ comments: true
 categories: Testing
 ---
 
-Power Control(PC) is one of the most important features in WCDMA technology. Here I'd like to introduce something about Inner Loop Power Control(ILPC).
+Power Control(PC) is one of the most important features in WCDMA technology. Here I'd like to introduce something Inner Loop Power Control(ILPC).
 
 <!--more-->
 
@@ -16,11 +16,11 @@ Power control, just as the name implies, is the mechanism to adjust the transmis
 
 ![Power control intro](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140808_intro_power_control.png)
 
-Please note, in this context, "power" means the signal strength instead of the battery power or the power consumed by the devices. Though a better power control would eventually make devices consume less battery power.
+Please note, in this context, "power" means the signal strength rather than the battery power or the power consumed by the devices. Though a better power control would eventually make devices consume less battery power.
 
 ### Categories
 
-From feedback perspective, there are two kinds of power control:
+From "feedback" perspective, there are two kinds of power control:
 
 * Open loop power control
 
@@ -56,6 +56,6 @@ Meanwhile, from Node B point of view, there are:
 
 	As mentioned before, both Node B and UE could sent TPC command carried on DPCCH to each other to tell them to calibrate the power of the corresponding physical channels.
 
-In my view, both OLPC and ILPC are closed loop power control. In my company, we usually use CLPC in our daily work but we mean ILPC actually.
+In my view, both OLPC and ILPC are closed loop power control. In my company, we usually use CLPC in our daily work which actually refers to ILPC.
 
     ![Power control intro](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140808_inner_outer_loop_power_control.png)
