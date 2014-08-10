@@ -3,7 +3,7 @@ layout: post
 title: "Inner Loop Power Control I"
 date: 2014-08-08 22:37
 comments: true
-categories: Testing
+categories: Radioaccess
 ---
 
 Power Control(PC) is one of the most important features in UMTS technology. Here I'd like to introduce the Inner Loop Power Control(ILPC).
