@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: "HS-SCCH Number Configuration"
