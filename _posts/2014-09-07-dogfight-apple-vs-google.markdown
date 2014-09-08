@@ -18,12 +18,14 @@ categories: Reading
 
 最后几章集中在“Started a Revolution”，即smartphone和tablet（主要是iPad）是如何改变传统媒体，娱乐和有线电视网络的。对美国这方面不熟悉，所以感触不深。
 
-作者在介绍跨时代新产品是如何艰难地诞生的同时（这一点，在前面翻译的那篇文章里已有所提及，作者喻之为Moon Mission登月计划），对点题的**dogfight***也着墨颇多。而这里的fight，不光是Apple和Google之间，还有部门与部门之间，部门内部团队之间，个人与个人之间的各种fight，让我印象最深的当属Scott Forstall和Tony Fadell之间的竞争。
+作者在介绍跨时代新产品是如何艰难地诞生的同时（这一点，在前面翻译的那篇文章里已有所提及，作者喻之为Moon Mission登月计划），对点题的**dogfight**也着墨颇多。而这里的fight，不光是Apple和Google之间，还有部门与部门之间，部门内部团队之间，个人与个人之间的各种fight，让我印象最深的当属Scott Forstall和Tony Fadell之间的竞争。
 
-*Tony Fadell*
+*Tony Fadell*:
+
 ![Tony Fadell](http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tony_Fadell.jpg/570px-Tony_Fadell.jpg)
 
-*Scott Forstall*
+*Scott Forstall*:
+
 ![Scott Forstall](http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Scott_Forstall.jpg/400px-Scott_Forstall.jpg)
 
 ### Background
@@ -76,7 +78,7 @@ Fadell在Forstall被赶出Apple之后，对BBC说"活该"。Forstall离开Apple�
 
 不光Apple内部，看了书后发现Google内部存在同样的问题，负责Android的Andy Rubin和负责iPhone上Google Apps的Vic Gundotra也有类似的竞争关系。（Andy Rubin也是一枚有意思的人物，以后再写。）看了这本书后，也就对现在团队里一些吵吵闹闹的场景有所理解了。每个人看问题的角度不同，想要的结果也不同，因此方式也不尽相同。这多少也算是点读书的收获吧。
 
-硅谷的故事总在不停的重复，Apple和Google的战争，就有如20多年前Apple和Microsoft的战争。甚至连结局都有类似的倾向--Android在市场份额上大幅领先于iPhone。（唯一的疑惑是，为什么相同的策略，iPod在音乐播放器这个领域可以取得绝对优势？）
+"阳光底下无新事"，硅谷的故事总在不停的重复，Apple和Google的战争，就有如20多年前Apple和Microsoft的战争。甚至连结局都有类似的倾向--Android在市场份额上大幅领先于iPhone。（唯一的疑惑是，为什么相同的策略，iPod在音乐播放器这个领域可以取得绝对优势？）
 
 自Steve Jobs去世后，Apple就再无让人眼前一亮的全新硬件产品面世。吴军在《浪潮之巅》里说Apple是创新驱动型的硬件公司，靠硬件赚钱，因此一旦硬件创新速度跟不上来，利润会大幅下滑。而Google是他所谓的“印钞机”模式，通过”网络入口--搜索--广告“这种模式，即使创新上偶尔跟不上也不会有大碍。不论这种论述正确与否，倒是点明了两个公司的差别。Google祭出Android也正是忌惮iPhone全面流行，会控制移动互联网的入口。而Apple现在全面倚重于iPhone，作为一个在手机领域成长不到10年，却要一直处于领跑位置，压力可想而知。（如果哪天Apple倒了，真替后面的跟跑者着急--哪里再去找抄袭的点子啊。不过也不必担心，如果Apple倒了，一定是被另一家更创新的公司干掉的，行业永远不缺领跑者和搅局者。）
 
