@@ -34,17 +34,17 @@ Tony Fadell和Scott Forstall同岁(1969年出生)。Scott Forstall于1992年从S
 
 虽然Forstall跟Jobs的时间更长，但一直不是核心圈的人物。他主要负责MAC上的应用软件，如Address Book, Mail, Safari和Photo Booth。
 
-同事认为是2003-4年间，Jobs才和Forstall变得熟起来的。那时Forstall患了严重的胃病，刚好Jobs也第一次确诊胰腺癌。Jobs最初希望用食疗治自己的癌症，结果为Forstall设计的一套养生法治好了他的胃病。之后，Forstall就越来越多的出现在Jobs的周一高层会议上了。照理说，Forstall不应知道iPhone项目的，因为他还不够高级。但当他从这些核心圈的讨论中发现Jobs想生产一款手机时，他就开始想方设法挤进来了。
+同事认为是在2003-4年间，Jobs才和Forstall变得熟起来的。那时Forstall患了严重的胃病，刚好Jobs也第一次确诊胰腺癌。Jobs最初希望用食疗治自己的癌症，结果为Forstall设计的一套养生法治好了他的胃病。之后，Forstall就越来越多的出现在Jobs的周一高层会议上了。照理说，Forstall不应知道iPhone项目的，因为他还不够高级。但当他从这些核心圈的讨论中发现Jobs想生产一款手机时，他就开始想方设法挤进来了。
 
-2011年Bloomberg报道，说Forstall从很多方面讲，就是迷你版的Jobs。他是那种为每个细节抓狂的那种经理。和Jobs相同，能用通俗易懂的语言描述技术问题。他喜欢银色款的奔驰SL55 AMG--和Jobs同款。甚至相同的台上行头：黑鞋，牛仔裤，黑色拉链毛衣。”（瞧瞧，不光国内这么多雷布斯，罗布斯，国外也不少啊。）
+2011年Bloomberg报道，说Forstall从很多方面讲，就是迷你版的Jobs。他是那种为每个细节抓狂的经理。和Jobs相同，能用通俗易懂的语言描述技术问题。他喜欢银色款的奔驰SL55 AMG，和Jobs同款。甚至相同的台上行头：黑鞋，牛仔裤，黑色拉链毛衣。”（瞧瞧，不光国内这么多雷布斯，罗布斯，国外也不少啊。）
 
 ### Fight before iPhone
 
-在iPhone之前,Andy Grignon就发现他俩不和的苗头。2004年Forstall阻止Andy去Fadell的部门。Grigon已经为Forstall工作了三年，产品是Dashboard和iChat。他认为他们在工作上还算是不错的朋友，他们在周末还会一起去攀岩。但是当Fadell给Grignon提供了一份更好的工作机会时，Forstall阻止了。他先告诉Grignon，支持他要走的想法。接着背着Grignon，他跑去告诉Jobs让他阻止这件事。Jobs下令禁止从SW team (Forstall掌管)迁移到iPod team(Fadell掌管)”。 敌意就是从那时开始的。
+在iPhone之前,Andy Grignon就发现他俩不和的苗头。2004年Forstall阻止Andy去Fadell的部门。Grigon已经为Forstall工作了三年，产品是Dashboard和iChat。他认为他们在工作上还算是不错的朋友，他们在周末还会一起去攀岩。但是当Fadell给Grignon提供了一份更好的工作机会时，Forstall阻止了。他先告诉Grignon，支持他要走的想法。接着背着Grignon，他跑去告诉Jobs让他阻止这件事。Jobs下令禁止任何人从SW team (Forstall掌管)迁移到iPod team(Fadell掌管)。 敌意就是从那时开始的。
 
 ### Fight for iPhone
 
-制造iPhone过程中，Jobs让Forstall和Fadell对打。Jobs非常玩弄这一套。一会是Tony，一会是Forstal，接着又是Tony，然后还是Forstall，不断循环。
+制造iPhone过程中，Jobs让Forstall和Fadell对打。Jobs非常善于玩弄这一套。一会是Tony，一会是Forstall，接着又是Tony，然后还是Forstall，不断循环。
 
 Apple的很多人认为，这场战争不平等。Fadell专长HW。Forstall专长SW。Forstall更占优，因为Jobs对SW和工业设计更感兴趣。当iPhone开始时，Forstall组织了一个秘密团队工作在这个项目上。Fadell有一段时间都不知道这个事情。
 
@@ -54,7 +54,7 @@ Apple的很多人认为，这场战争不平等。Fadell专长HW。Forstall专�
 
 iPhone出货后，高官们都去到各大Apple直营店造势宣传。Jobs去的是Palo Alto那一家。Jobs直接走到Fadell跟前，在商店的一个角落和他交谈了一个小时，故意冷落Forstall。
 
-因为直到那天，从发布到销售的那六个月，所有事都是Tony的错。任何硬件，出货时间delay，制造问题，都是Fadell的问题。Forstall作为软件的头不会错。但是当各大媒体测评报告出街后，发现iPhone的email软件不能使用，相反人人都爱死了iPhone的硬件。所瞬间以Forstall变成了坏孩子，Fadell成了天之骄子。
+因为直到那天，从发布到销售的那六个月，所有事都是Fadell的错。任何硬件，出货时间delay，制造问题，都是Fadell的问题。Forstall作为软件的头不会错。但是当各大媒体测评报告出街后，发现iPhone的email软件不能使用，相反人人都爱死了iPhone的硬件。瞬间Forstall变成了坏孩子，Fadell成了天之骄子。
 
 同事说：“好笑的是，Jobs故意背对着Forstall，Fadell全程都可以看到Forstall。Forstall脸上的表情相当好笑。好似他爸告诉他再也不会爱他一样。”
 
@@ -64,7 +64,7 @@ iPhone出货后，高官们都去到各大Apple直营店造势宣传。Jobs去�
 
 Forstall后来变成了一个只会“抢别人的功劳，但让别人承担自己的罪责”的经理，并将自己视为Apple的CEO。2011年Bloomberg报道，首席设计师Jony Ive和技术部老大Bod Mansfield非常讨厌Fostall，据称他们拒绝和Forstall开会，除非Tim Cook也在场。Tim Cook最后在2012年将Forstall赶出了Apple。
 
-Fadell在Forstall被赶出Apple之后，对BBC说"活该"。Forstall离开Apple后没再公开露面过。
+Fadell在Forstall被赶出Apple之后，对BBC称"活该"。Forstall离开Apple后没再公开露面过。
 
 ### Funny Stories
 
