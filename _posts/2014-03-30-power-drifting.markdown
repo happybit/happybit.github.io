@@ -6,7 +6,7 @@ comments: true
 categories: Radioaccess
 ---
 
-Closed loop power control (CLPC), a.k.a. fast power control, is an important feature in UMTS to adjust both uplink and downlink power level between Node B and UE via Transmit Power Control (TPC) commands. However the other side of CLPC is power drifting during soft handover ([1](http://blog.pzheng.info/blog/2013/04/02/soft-and-softer-handover/) & [2](http://blog.pzheng.info/blog/2013/05/12/soft-and-softer-handover-ii/)). In subclause 9.2.1.3 of *WCDMA for UMTS: HSPA Evolution and LTE (5th Edition)*, the authors have presented the cause and possible solvement for this issue. So I don't bother to repeat it again. Just some personal thoughts to help me deeply understand.
+Closed loop power control (CLPC), a.k.a. fast power control, is an important feature in UMTS to adjust both uplink and downlink power level between Node B and UE via Transmit Power Control (TPC) commands. However the other side of CLPC is power drifting during soft handover ([1](http://blog.pzheng.me/blog/2013/04/02/soft-and-softer-handover/) & [2](http://blog.pzheng.me/blog/2013/05/12/soft-and-softer-handover-ii/)). In subclause 9.2.1.3 of *WCDMA for UMTS: HSPA Evolution and LTE (5th Edition)*, the authors have presented the cause and possible solvement for this issue. So I don't bother to repeat it again. Just some personal thoughts to help me deeply understand.
 
 <!--more-->
 

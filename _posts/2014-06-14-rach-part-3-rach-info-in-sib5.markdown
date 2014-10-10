@@ -6,7 +6,7 @@ comments: true
 categories: Radioaccess
 ---
 
-All of the RACH related information is broadcasted on SIB5/5bis via BCH. [Last time](http://blog.pzheng.info/blog/2014/06/07/rach-part-2-ac-and-asc/), the *PRACH partitioning*, which contained the available PRACH preamble signatures and sub-channels, was elaborated in details. But as I mentioned, we need more info to check the exact available signatures and sub-channels.
+All of the RACH related information is broadcasted on SIB5/5bis via BCH. [Last time](http://blog.pzheng.me/blog/2014/06/07/rach-part-2-ac-and-asc/), the *PRACH partitioning*, which contained the available PRACH preamble signatures and sub-channels, was elaborated in details. But as I mentioned, we need more info to check the exact available signatures and sub-channels.
 
 <!--more-->
 

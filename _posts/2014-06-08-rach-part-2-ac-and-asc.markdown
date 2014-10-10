@@ -6,7 +6,7 @@ comments: true
 categories: Radioaccess
 ---
 
-In [previous post](http://blog.pzheng.info/blog/2014/05/25/rach-part-1-access-slot-sub-channels/), I have illustrated the access slot and sub-channel is the basic time unit for PRACH. As we know, RACH is **R**andom **A**ccess **Ch**annel which means UE shall initiate PRACH preamble *somehow* randomly. However, it doesn't mean UE could access to network at any access slot. The Access Service Class(ASC) defines the available sub-channels as well as PRACH preamble signatures.
+In [previous post](http://blog.pzheng.me/blog/2014/05/25/rach-part-1-access-slot-sub-channels/), I have illustrated the access slot and sub-channel is the basic time unit for PRACH. As we know, RACH is **R**andom **A**ccess **Ch**annel which means UE shall initiate PRACH preamble *somehow* randomly. However, it doesn't mean UE could access to network at any access slot. The Access Service Class(ASC) defines the available sub-channels as well as PRACH preamble signatures.
 
 <!--more-->
 

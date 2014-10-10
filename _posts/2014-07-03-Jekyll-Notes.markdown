@@ -6,13 +6,13 @@ comments: true
 categories: Others
 ---
 
-As I mentioned in [previous post](http://blog.pzheng.info/blog/2014/05/25/migrating-from-octopress-to-jekyll/), Jekyll on GitHub is lack of some basic features such as category and archive pages since it doesn't support plugins. Here is how to add those features without plugin support. Of course, all tips were found from the open internet :smile:.
+As I mentioned in [previous post](http://blog.pzheng.me/blog/2014/05/25/migrating-from-octopress-to-jekyll/), Jekyll on GitHub is lack of some basic features such as category and archive pages since it doesn't support plugins. Here is how to add those features without plugin support. Of course, all tips were found from the open internet :smile:.
 
 <!--more-->
 
 ## Footnotes
 
-Sometimes we want to add some footnotes for reference as in [this post](http://blog.pzheng.info/blog/2014/07/02/2014H1-summary/). The original markdown parser "redcarpet" cannot support it, at least for Jekyll on Github. We just need to change below line in `_config.yml`:
+Sometimes we want to add some footnotes for reference as in [this post](http://blog.pzheng.me/blog/2014/07/02/2014H1-summary/). The original markdown parser "redcarpet" cannot support it, at least for Jekyll on Github. We just need to change below line in `_config.yml`:
 
     markdown:         redcarpet
 

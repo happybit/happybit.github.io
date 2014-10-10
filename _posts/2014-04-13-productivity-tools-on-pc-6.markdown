@@ -21,7 +21,7 @@ Here is the overall structure of my Dropbox directory.
     ├── Public
     └── Workspace
 
-1. `ConfigFiles`: All dotfiles are stored here like AHK, Emacs as well as [TotalCommander(wincmd.ini)](http://blog.pzheng.info/blog/2013/08/19/productivity-tools-on-pc-3/) configuration files, etc.
+1. `ConfigFiles`: All dotfiles are stored here like AHK, Emacs as well as [TotalCommander(wincmd.ini)](http://blog.pzheng.me/blog/2013/08/19/productivity-tools-on-pc-3/) configuration files, etc.
 
 2. `DokuWikiStick`: The biggest motive for me to use Dropbox is trying to store DokuWikiStick on cloud. Thus I could simply sync all my wiki entries on windows PC in company, at home and even on my mobile phone and tablet. Since DokuWiki stores posts as text files without real database. So even Apache cannot be running on mobile phone or tablet, I could still check my personal wiki on mobile devices which is really amazing!
 

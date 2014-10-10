@@ -6,7 +6,7 @@ comments: true
 categories: Productivity
 ---
 
-Eight frequently-used tools were listed in [preview post](http://blog.pzheng.info/blog/2013/07/30/productivity-tools-on-pc-1/). Some of them are so handy that you could use them directly  without any customization. I will introduce first two tools in this single post. 
+Eight frequently-used tools were listed in [preview post](http://blog.pzheng.me/blog/2013/07/30/productivity-tools-on-pc-1/). Some of them are so handy that you could use them directly  without any customization. I will introduce first two tools in this single post. 
 
 <!--more-->
 

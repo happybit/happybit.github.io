@@ -20,7 +20,7 @@ Though human beings are able to process multiple tasks simultaneously. We still 
 
 What we have done is to set milestone for each task based on the estimated effort. Well you could call it other name, such as "deadline" which I dislike. 
 
-As I have presented in [Scrum Practice I](http://blog.pzheng.info/blog/2013/06/02/scrum-practice-i/), there are several weekly targets in this sprint. So it's quite easy to set milestone respectively.
+As I have presented in [Scrum Practice I](http://blog.pzheng.me/blog/2013/06/02/scrum-practice-i/), there are several weekly targets in this sprint. So it's quite easy to set milestone respectively.
 
 We highlight the milestone days in a different colour in backlog which makes it colourful. Thus with a quick glance, you will find maybe too many tasks are gathered in one week which are obviously impossible to finish on time.
 
