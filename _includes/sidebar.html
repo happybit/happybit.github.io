@@ -29,6 +29,20 @@
     <a class="sidebar-nav-item" href="http://feeds.feedburner.com/knoise">RSS</a>
   </nav>
 
+<script>
+  (function() {
+    var cx = '014417031507268665618:gdni2m9hvhc';
+    var gcse = document.createElement('script');
+    gcse.type = 'text/javascript';
+    gcse.async = true;
+    gcse.src = (document.location.protocol == 'https:' ? 'https:' : 'http:') +
+        '//www.google.com/cse/cse.js?cx=' + cx;
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(gcse, s);
+  })();
+</script>
+<gcse:searchbox-only></gcse:searchbox-only>
+
   <div class="sidebar-item">
     <p>
       &copy; {{ site.time | date: '2012-%Y' }}. All rights reserved. Powered by <a href="http://www.github.com">GitHub</a> & <a href="http://jekyllrb.com/">Jekyll</a>.
