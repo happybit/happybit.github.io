@@ -6,7 +6,7 @@ comments: true
 categories: Archlinux
 ---
 
-Days ago, I configured my netbook for [BitTorrent Sync](http://blog.pzheng.me/blog/2014/02/24/build-home-backup-system/). This week, I proceeded further to install [Aria2](http://aria2.sourceforge.net/) on it for the purpose of remote downloading. 
+Days ago, I configured my netbook for [BitTorrent Sync](http://blog.pzheng.me/2014/02/24/build-home-backup-system/). This week, I proceeded further to install [Aria2](http://aria2.sourceforge.net/) on it for the purpose of remote downloading. 
 
 <!--more-->
 

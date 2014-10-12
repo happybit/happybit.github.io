@@ -5,7 +5,8 @@ highlighter:      pygments
 
 # Permalinks
 # permalink:        pretty
-permalink:        /blog/:year/:month/:day/:title/
+#permalink:        /blog/:year/:month/:day/:title/
+permalink:        /:year/:month/:day/:title/
 
 # Setup
 title:            Sound/Noise

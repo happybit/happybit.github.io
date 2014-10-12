@@ -6,7 +6,7 @@ comments: true
 categories: Productivity
 ---
 
-Right after posted ["My Android Home Screen"](http://blog.pzheng.me/blog/2013/03/12/my-android-home-screen/), I found another powerful launcher to customize my home screen.
+Right after posted ["My Android Home Screen"](http://blog.pzheng.me/2013/03/12/my-android-home-screen/), I found another powerful launcher to customize my home screen.
 
 <!--more-->
 

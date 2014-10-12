@@ -10,7 +10,7 @@ categories: Reading
 
 <!--more--> 
 
-上个月翻译过一篇关于Apple发布初代iPhone的[文章](http://blog.pzheng.me/blog/2014/08/04/and_then_steve_said/)。后循着页面找到作者写的书[Dogfight: How Apple and Google Went to War and Started a Revolution](http://www.amazon.com/Battle-Titans-Transforming-Previously-Published-ebook/dp/B00BIV1R98)，前面提到的那篇文章就是这本书第一章的略微改写。
+上个月翻译过一篇关于Apple发布初代iPhone的[文章](http://blog.pzheng.me/2014/08/04/and_then_steve_said/)。后循着页面找到作者写的书[Dogfight: How Apple and Google Went to War and Started a Revolution](http://www.amazon.com/Battle-Titans-Transforming-Previously-Published-ebook/dp/B00BIV1R98)，前面提到的那篇文章就是这本书第一章的略微改写。
 
 ![cover of dogfight](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140907_dogfight_cover.jpg)
 

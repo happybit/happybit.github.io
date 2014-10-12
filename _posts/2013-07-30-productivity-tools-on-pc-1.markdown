@@ -14,12 +14,12 @@ Therefore it's time to summarize and share my experience on this topic.
 
 In the following days, I'd like to introduce below tools (yeah, I know you might be disappointed since they are all so popular and well-known):
 
-1. [Everything](http://blog.pzheng.me/blog/2013/08/08/productivity-tools-on-pc-2/)
-2. [Launchy](http://blog.pzheng.me/blog/2013/08/08/productivity-tools-on-pc-2/)
-3. [TotalCommand](http://blog.pzheng.me/blog/2013/08/19/productivity-tools-on-pc-3/)
-4. [DokuWiki](http://blog.pzheng.me/blog/2013/11/10/productivity-tools-on-pc-4/)
-5. [Outlook](http://blog.pzheng.me/blog/2013/11/18/productivity-tools-on-pc-5/)
-6. [Dropbox](http://blog.pzheng.me/blog/2014/04/13/productivity-tools-on-pc-6/)
+1. [Everything](http://blog.pzheng.me/2013/08/08/productivity-tools-on-pc-2/)
+2. [Launchy](http://blog.pzheng.me/2013/08/08/productivity-tools-on-pc-2/)
+3. [TotalCommand](http://blog.pzheng.me/2013/08/19/productivity-tools-on-pc-3/)
+4. [DokuWiki](http://blog.pzheng.me/2013/11/10/productivity-tools-on-pc-4/)
+5. [Outlook](http://blog.pzheng.me/2013/11/18/productivity-tools-on-pc-5/)
+6. [Dropbox](http://blog.pzheng.me/2014/04/13/productivity-tools-on-pc-6/)
 7. AutoHotKey
 8. Emacs
 

@@ -55,7 +55,7 @@ categories: Testing
 
 ## Practice
 
-在前不久的一次[new feature测试规划](http://blog.pzheng.me/blog/2014/07/04/a-practice-for-new-feature-grooming/)中，我们使用了该方法设计了其中部分测试用例。
+在前不久的一次[new feature测试规划](http://blog.pzheng.me/2014/07/04/a-practice-for-new-feature-grooming/)中，我们使用了该方法设计了其中部分测试用例。
 
 在该新特性中，我们的产品需支持setup/addition/reconfiguration/deletion这四种Actions，状态是在最多4条links之间相互切换。下图即为整个状态图，不需要在该feature中测试的部分，在图中未予显示。
 
