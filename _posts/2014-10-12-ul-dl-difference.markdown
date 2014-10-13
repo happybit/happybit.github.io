@@ -6,7 +6,7 @@ comments: true
 categories: Radioaccess
 ---
 
-Last time, one of my colleagues asked me a interesting question regarding the difference of modulation between uplink and downlink. And I'd like to share with you here today.
+Last time, one of my colleagues asked me an interesting question regarding the difference of modulation between uplink and downlink. And I'd like to share with you here today.
 
 <!--more--> 
 
