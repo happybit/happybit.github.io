@@ -28,3 +28,4 @@ github:
 # support emoji
 gems:
   - jemoji
+  - jekyll-sitemap
