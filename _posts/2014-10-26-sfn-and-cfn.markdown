@@ -22,7 +22,7 @@ SFN是在BFN的基础上，加上T<sub>cell</sub>值区分同一个Node B下各�
 
     CFN = (SFN + (frame_offset*38400 + chip_offset) Mod 38400) Mod 256
 
-几条基于小区时间(而不是RL-specific或UE-specific)的物理信道：
+几条基于小区时间(而不是RL-specific或UE-specific)的物理信道，其他信道具体时序关系请参看TS25.211 subclause 7.
 
 * 小区的P-CCPCH和SFN是对齐的；
 * HS-SCCH和小区的P-CCPCH的SFN是对齐的，HS-PDSCH落后HS-SCCH两个slots;
