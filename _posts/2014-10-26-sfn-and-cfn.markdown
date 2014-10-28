@@ -12,7 +12,7 @@ categories: Radioaccess
 
 要谈SFN和CFN，还有一个BFN不得不提：
 
-* BFN: Node **B** **F**rame **N**umber. 一个Node B所有小区的参考始终，是Node B-specific的；
+* BFN: Node **B** **F**rame **N**umber. 一个Node B内所有小区的参考时钟，是Node B-specific的；
 * SFN: **S**ystem **F**rame **N**umber. 每个小区独立的时间，是cell-specific的；
 * CFN: **C**onnection **F**rame **N**umber. 表征UE和UTRAN之间的时间关系，是user-specific的；
 
