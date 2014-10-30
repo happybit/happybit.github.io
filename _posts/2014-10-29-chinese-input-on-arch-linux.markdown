@@ -1,5 +1,3 @@
-输入法
-
 ---
 layout: post
 title: "Chinese Input on Arch Linux"
