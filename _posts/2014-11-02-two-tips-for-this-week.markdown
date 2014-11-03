@@ -12,7 +12,7 @@ I was annoyed by two issues for a long time when using Total Commander. This wee
 
 ## Open text file in existing Emacs process
 
-GNU Emacs is always openning on my computer. So I am trying to open and edit text files in existed Emacs window in stead of in a new Emacs window.
+GNU Emacs is always openning on my computer. So I am trying to open and edit text files in the existed Emacs window instead of a new Emacs window.
 
 Firstly, you need to add below line in your `.emacs` file.
 
@@ -40,7 +40,7 @@ At last, select a text file and press `Ctrl` + `Alt` + `e` simultaneously. This 
 
 There is a built-in shortcut key in Total Commander to unpack archive file: `Alt` + `F9`. However, the unpacked files would be allocated to the folder in the other column of Total Commander. Is it possible to unpack them in the same folder as the original archive?
 
-Of cource. We still need a little help from AutoHotKey. Below codes are coming from [internet](http://www.ghisler.ch/wiki/index.php/AutoHotkey:_Unpack_each_archive_to_a_separate_subdir). 
+Of course. We still need a little help from AutoHotKey. Below codes are coming from [internet](http://www.ghisler.ch/wiki/index.php/AutoHotkey:_Unpack_each_archive_to_a_separate_subdir). 
 
     ^!u::
     IfWinActive ahk_class TTOTAL_CMD
