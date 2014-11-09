@@ -17,6 +17,7 @@ categories: Others
 共计有900人(N<sub>total_people</sub>)抢票，3只(N<sub>groups</sub>)电话接受预订，每个人接通的机率相同，只取前60个(N<sub>lucky_ones</sub>)接通电话的人(平均每部电话有300人抢票，取前20人)。我方共有九人(N<sub>team_members</sub>)，其中任一人打通电话即算抽中。
 
 **方案**：
+
 1. 方案1，九人均分为三组，各自拨打各自对应的电话；
 2. 方案2，九人全都打一个电话；
 
