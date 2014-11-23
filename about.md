@@ -14,4 +14,4 @@ Besides my job related fields, i.e. [radio access](http://blog.pzheng.me/categor
 You can find me on [Twitter](https://twitter.com/knoise) or just leave comments on this site[^1].
 
 ----
-[^1]: This site is hosted by [GitHub](http://www.github.com) and powered by [Jekyll](http://jekyllrb.com/). And all the images are hosted by [Dropbox](http://www.dropbox.com). If there is problem for loading posts/images in China, it might be caused by [GFW](http://en.wikipedia.org/wiki/Golden_Shield_Project).
+[^1]: This site is hosted by [GitHub](http://www.github.com) and powered by [Jekyll](http://jekyllrb.com/). And all the images are hosted by [Dropbox](http://www.dropbox.com). If there is problem for loading pages/images in China, it might be caused by [GFW](http://en.wikipedia.org/wiki/Golden_Shield_Project).
