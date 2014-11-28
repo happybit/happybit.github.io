@@ -16,3 +16,4 @@ Till recently, I found [this modified driver](https://github.com/FreedomBen/rtl8
 
 If you have the similar problem, please try this driver. Don't forget to explore #Troubleshooting section if the problem still exists. The fixed rate commands finally help to solve my problem.
 
+Really appreciate the author's sharing. :smile:
