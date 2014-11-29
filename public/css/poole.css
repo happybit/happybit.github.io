@@ -54,7 +54,7 @@ html {
 }
 @media (min-width: 38em) {
   html {
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -66,7 +66,7 @@ body {
 }
 
 .footnotes {
-	font-size: 15px;
+	font-size: 12px;
 	color:	#B0B0B0
 }
 
