@@ -64,8 +64,3 @@ Notes:
 3. [Peter Thiel](http://startupclass.samaltman.com/courses/lec05)指出，成功的创始人仍在通过控制垄断来敛财，但这仅限于他们自己创造出来（的新业务新领域而导致）的垄断，而不是攫取（稀有资源来垄断）。即使他说的都是对的，那也说明获得胜利的这类人（和以往相比也）有了很大的变化。
 4. 实际上，罗马人并没有想杀阿基米德。罗马长官特别强调不要杀他。但他还是在混乱中被杀了。在混乱的非常时期，即使是“思考”都需要控制稀有资源，因为“活着”已然是一种稀有资源了。
 
-----
-[1]: http://en.wikipedia.org/wiki/Selection_bias
-[2]: http://en.wikipedia.org/wiki/Hunter-gatherer
-[3]: http://en.wikipedia.org/wiki/Zero-sum_game
-[4]: http://en.wikipedia.org/wiki/Archimedes
