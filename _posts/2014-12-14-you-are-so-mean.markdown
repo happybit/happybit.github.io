@@ -6,22 +6,6 @@ comments: true
 categories: Reading
 ---
 
-最近[_Paul Graham_](http://paulgraham.com)的这篇文章[Mean People Fail](http://paulgraham.com/mean.html)在网上疯传。_Paul Graham_是创业公司孵化器[Y Combinator](http://www.ycombinator.com/)的联合创始人之一，曾成功孵化过[Dropbox](http://dropbox.com)和[Airnbn](https://www.airbnb.com/)等新晋企业。其本人还是有名的Lisp程序员。
-
-<!--more-->
-
-_Paul Graham_会在其[个人网站](http://paulgraham.com)上发布关于创业和技术相关的文章。他的文章，文法漂亮逻辑严谨，是非常好的英语学习材料。
-
-说回到这篇Mean People Fail的文章，其实对他的论点，我不太同意。远的不说，Steve Job不能再mean了吧，把女友肚子搞大又踹了别人最后还怀疑小孩不是他的，工作中动不动就骂手下做的是shit等恶劣行径，无论如何算不上“仁爱”吧。而电影[The Social Network](www.imdb.com/title/tt1285016/)中评价Mark Zuckerberg的那句"You're not an asshole, Mark. You're just trying so hard to be."言犹在耳。而国内各大公司各种没节操的行径就更不用多说了。
-
-不过文章里提到两点，我个人觉得有道理：
-
-* 斗争让人无法专注，也无益于真正的问题的解决；
-* 现代企业不再是靠攫取稀有资源形成垄断来玩的零和游戏，而应靠不断创新才能进步；
-
-下面是对该文的草译，有错漏的地方还请多多指教。
-
-----
 
 ### 刻薄的人不会成功
 
