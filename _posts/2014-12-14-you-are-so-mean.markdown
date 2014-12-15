@@ -12,7 +12,11 @@ categories: Reading
 
 *Paul Graham*会在其[个人网站](http://paulgraham.com)上发布关于创业和技术相关的文章。他的文章，文法漂亮逻辑严谨，是非常好的英语学习材料。
 
-说回到这篇Mean People Fail的文章，其实对他的论点，我不太同意。远的不说，Steve Job不能再mean了吧，把女友肚子搞大又踹了别人最后还怀疑小孩不是他的，工作中动不动就骂手下做的东西是shit等恶劣行径，无论如何算不上“仁爱”吧。而电影[The Social Network](www.imdb.com/title/tt1285016/)中评价Mark Zuckerberg的那句"You're not an asshole, Mark. You're just trying so hard to be."言犹在耳。而国内各大公司各种没节操的行径就更不用多说了。
+说回到这篇Mean People Fail的文章，其实对他的论点，我不太同意。远的不说，Steve Job不能再mean了吧，把女友肚子搞大又踹了别人最后还怀疑小孩不是他的，工作中动不动就骂手下做的东西是shit等恶劣行径，无论如何算不上“仁爱”吧。而电影[The Social Network](www.imdb.com/title/tt1285016/)中评价Mark Zuckerberg的那句
+
+> You're not an asshole, Mark. You're just trying so hard to be.
+
+言犹在耳。而国内各大公司各种没节操的行径就更不用多说了。
 
 不过文章里提到两点，我个人觉得有道理：
 
@@ -65,7 +69,7 @@ categories: Reading
 4. 实际上，罗马人并没有想杀阿基米德。罗马长官特别强调不要杀他。但他还是在混乱中被杀了。在混乱的非常时期，即使是“思考”都需要控制稀有资源，因为“活着”已然是一种稀有资源了。
 
 ----
-[^1]: http://en.wikipedia.org/wiki/Selection_bias
-[^2]: http://en.wikipedia.org/wiki/Hunter-gatherer
-[^3]: http://en.wikipedia.org/wiki/Zero-sum_game
-[^4]: http://en.wikipedia.org/wiki/Archimedes
+[^1]: [http://en.wikipedia.org/wiki/Selection_bias](http://en.wikipedia.org/wiki/Selection_bias)
+[^2]: [http://en.wikipedia.org/wiki/Hunter-gatherer](http://en.wikipedia.org/wiki/Hunter-gatherer)
+[^3]: [http://en.wikipedia.org/wiki/Zero-sum_game](http://en.wikipedia.org/wiki/Zero-sum_game)
+[^4]: [http://en.wikipedia.org/wiki/Archimedes](http://en.wikipedia.org/wiki/Archimedes)
