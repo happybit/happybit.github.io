@@ -6,13 +6,13 @@ comments: true
 categories: Reading
 ---
 
-最近[_Paul Graham_](http://paulgraham.com)的这篇文章[Mean People Fail](http://paulgraham.com/mean.html)在网上疯传。_Paul Graham_是创业公司孵化器[Y Combinator](http://www.ycombinator.com/)的联合创始人之一，曾成功孵化过[Dropbox](http://dropbox.com)和[Airnbn](https://www.airbnb.com/)等新晋企业。其本人还是有名的Lisp程序员。
+最近[_Paul Graham_](http://paulgraham.com)的这篇文章[Mean People Fail](http://paulgraham.com/mean.html)在网上疯传。*Paul Graham*是创业公司孵化器[Y Combinator](http://www.ycombinator.com/)的联合创始人之一，曾成功孵化过[Dropbox](http://dropbox.com)和[Airnbn](https://www.airbnb.com/)等新晋企业。其本人还是有名的Lisp程序员。
 
 <!--more-->
 
-_Paul Graham_会在其[个人网站](http://paulgraham.com)上发布关于创业和技术相关的文章。他的文章，文法漂亮逻辑严谨，是非常好的英语学习材料。
+*Paul Graham*会在其[个人网站](http://paulgraham.com)上发布关于创业和技术相关的文章。他的文章，文法漂亮逻辑严谨，是非常好的英语学习材料。
 
-说回到这篇Mean People Fail的文章，其实对他的论点，我不太同意。远的不说，Steve Job不能再mean了吧，把女友肚子搞大又踹了别人最后还怀疑小孩不是他的，工作中动不动就骂手下做的是shit等恶劣行径，无论如何算不上“仁爱”吧。而电影[The Social Network](www.imdb.com/title/tt1285016/)中评价Mark Zuckerberg的那句"You're not an asshole, Mark. You're just trying so hard to be."言犹在耳。而国内各大公司各种没节操的行径就更不用多说了。
+说回到这篇Mean People Fail的文章，其实对他的论点，我不太同意。远的不说，Steve Job不能再mean了吧，把女友肚子搞大又踹了别人最后还怀疑小孩不是他的，工作中动不动就骂手下做的东西是shit等恶劣行径，无论如何算不上“仁爱”吧。而电影[The Social Network](www.imdb.com/title/tt1285016/)中评价Mark Zuckerberg的那句"You're not an asshole, Mark. You're just trying so hard to be."言犹在耳。而国内各大公司各种没节操的行径就更不用多说了。
 
 不过文章里提到两点，我个人觉得有道理：
 
@@ -23,9 +23,9 @@ _Paul Graham_会在其[个人网站](http://paulgraham.com)上发布关于创业
 
 ----
 
-### 刻薄的人不会成功
+## 刻薄的人不会成功
 
-原文链接： http://paulgraham.com/mean.html
+原文链接： [http://paulgraham.com/mean.html](http://paulgraham.com/mean.html)
 
 最近我突然意识到，在我认识的最成功的那群人里，刻薄之人极少。可能有例外，但非常少。
 
@@ -57,7 +57,7 @@ _Paul Graham_会在其[个人网站](http://paulgraham.com)上发布关于创业
 
 很高兴我能停下来想想这件事。Jessica和我经常教育我们的小孩不要太刻薄。我们可以忍受噪音，混乱和垃圾食品，但不能忍受刻薄。而现在我又有了新的理由和论点去反对它，那就是：刻薄会让你失败。
 
-Notes:
+备注：
 
 1. 我不是说所有接受高价收购的创始人都是被钱驱使，但明显那些没接受的人肯定不是。而被钱驱使的人也可能有仁爱之心，比如，他可能是为了照顾家庭，或为了实现财务自由好进行其他改进社会的项目，而接受高价收购。
 2. 不是所有成功的初创公司都在改善世界。但它们的创始人，就像家长一样，真心相信他们是在改进世界。成功的创始人（像爱孩子一样）爱着他们的公司。当这种爱像爱其他人一样盲目时，那他就是真诚的。
@@ -65,7 +65,7 @@ Notes:
 4. 实际上，罗马人并没有想杀阿基米德。罗马长官特别强调不要杀他。但他还是在混乱中被杀了。在混乱的非常时期，即使是“思考”都需要控制稀有资源，因为“活着”已然是一种稀有资源了。
 
 ----
-[1]: http://en.wikipedia.org/wiki/Selection_bias
-[2]: http://en.wikipedia.org/wiki/Hunter-gatherer
-[3]: http://en.wikipedia.org/wiki/Zero-sum_game
-[4]: http://en.wikipedia.org/wiki/Archimedes
+[^1]: http://en.wikipedia.org/wiki/Selection_bias
+[^2]: http://en.wikipedia.org/wiki/Hunter-gatherer
+[^3]: http://en.wikipedia.org/wiki/Zero-sum_game
+[^4]: http://en.wikipedia.org/wiki/Archimedes
