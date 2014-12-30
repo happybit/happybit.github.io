@@ -45,7 +45,7 @@ OK. 现在初步定位了问题在哪儿，我们需要仔细研究一下关于M
 
 MIMO HSDPA的CQI上报和普通HSDPA用户不同。[3GPP TS25.214](http://www.3gpp.org/DynaReport/25214.htm) sub-clause 6A.1.2.2中指出，MIMO HSDPA用户会依次上报Type A和Type B的CQI values。符合下面公式的TTI就会上报Type A CQI，不符合的就会报Type B CQI.
 
-![MIMO CQI](https://dl.dropboxusercontent.com/u/6459697/blogimage/20140705_feature_grooming_xmind.png/20141230_MIMI_CQI.jpg)
+![MIMO CQI](https://dl.dropboxusercontent.com/u/6459697/blogimage/20141230_MIMI_CQI.jpg)
 
 简单说，CQI是UE对下行pilot的测量，Node B收到CQI后可以大致得到UE推荐的transport block size。因此：
 
