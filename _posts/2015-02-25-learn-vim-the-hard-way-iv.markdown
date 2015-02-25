@@ -16,7 +16,7 @@ categories: Productivity
 
 唯一有一点不遍的是，Evil在org-mode的Org Agenda界面不起作用，也就是说`jkhl`在Org Agenda里无法进行方向操作。不过网上已有解决办法，从[Steve Purcell](http://www.sanityinc.com/)大神的[配置文件](https://github.com/purcell/emacs.d)中抄的。在Emacs配置文件中加入下面这几行，重定义快捷键即可。
 
-```lisp
+~~~lisp
 (add-hook 'org-agenda-mode-hook
   (lambda ()
     (define-key org-agenda-mode-map "\C-n" 'evil-next-buffer)
@@ -29,7 +29,7 @@ categories: Productivity
     (define-key org-agenda-mode-map "n" 'evil-forward-word-begin)
     (define-key org-agenda-mode-map "p" 'evil-forward-word-begin)
     (define-key org-agenda-mode-map "w" 'evil-forward-word-begin)))
-```
+~~~
 
 ### Total Commander & ViATc
 
