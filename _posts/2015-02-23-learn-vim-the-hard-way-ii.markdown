@@ -17,7 +17,7 @@ categories: Productivity
 ![Editors Learning Curve](https://dl.dropboxusercontent.com/u/6459697/blogimage/20150223_editors_learning_curve.jpg)
 [[Source](http://www.quora.com/How-accurate-do-you-think-these-text-editor-learning-curves-are)]
 
-个人在学习Vim时。遇到的最大困难是经常和Emacs的快捷键记混。使用Emacs几年后，一些基本操作的快捷键已形成肌肉记忆，编辑时左手小拇指会不自觉地想去按键盘左下角的Ctrl键。只要抑制住按Ctrl键的冲动，就可以说迈出了成功的第一步。剩下的，就是背了。
+个人在学习Vim时。遇到的最大困难是经常和Emacs的快捷键记混。使用Emacs几年后，一些基本操作的快捷键已形成肌肉记忆，编辑时左手小拇指会不自觉地想去按键盘左下角的Ctrl键。只要抑制住按Ctrl键的冲动，就可以说迈出了成功的第一步。剩下的，就是"背"了。
 
 这里就要祭出利器了--[Anki](http://ankisrs.net/)。这是一个遵循遗忘曲线的卡片式辅助记忆工具（好几年前学习Perl时，也做过一个类似的命令行工具，用来记单词的，当然不能和这个相比啦:blush:）。这个工具强大之处在于全平台支持，支持各种操作系统如Windows，Linux，Mac，[Android](https://play.google.com/store/apps/details?id=com.ichi2.anki)，[iOS](https://itunes.apple.com/us/app/ankimobile-flashcards/id373493387?mt=8&ign-mpt=uo%3D4)等。如不想使用app，还支持[web](https://ankiweb.net/)界面，无比贴心。其中Android版本免费，而iOS版本人民币163元（作者知道Android用户购买力没iOS用户强么？:sunglasses:）。
 
