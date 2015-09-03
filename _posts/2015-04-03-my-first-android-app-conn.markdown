@@ -3,7 +3,7 @@ layout: post
 title: "My First Android App Conn"
 date: 2015-04-03 20:22
 comments: true
-categories: Others
+categories: Android
 ---
 
 终于我的第一个[Android app](http://conn.pzheng.me)出炉了，拖得太久了。本来去年底开始自学Android开发时，就已经把雏形做出来了，基本功能完成，并一直在使用。但是“能用”和“好用”之间，还需填补大量完善的功夫。前几个月因其他事务太多，一度停止。最近又捡起来，熬了几个夜总算弄出一个“可用”的[版本](https://dl.dropboxusercontent.com/u/6459697/app/Conn/Conn_v1.0.0.apk)。欢迎尝鲜！

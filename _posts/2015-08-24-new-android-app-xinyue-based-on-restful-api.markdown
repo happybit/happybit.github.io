@@ -3,7 +3,7 @@ layout: post
 title: "New Android App Xinyue Based on RESTful API"
 date: 2015-08-24 09:26
 comments: true
-categories: Others
+categories: Android
 ---
 
 做完第一个Android小应用[Conn](http://blog.pzheng.me/2015/04/03/my-first-android-app-conn/)后，一直跃跃欲试想再做一款应用练练手。毕竟脑子里的idea还挺多的，而用工程驱动的方式去学习，也不失乐趣。

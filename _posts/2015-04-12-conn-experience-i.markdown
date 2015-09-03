@@ -3,7 +3,7 @@ layout: post
 title: "Conn Experience I"
 date: 2015-04-12 20:40
 comments: true
-categories: Others
+categories: Android
 ---
 
 Conn的核心操作不过是自动toggle data connection。可以将`ConnectivityManager`中的`setMobileDataEnabled`方法reflection出来使用。
