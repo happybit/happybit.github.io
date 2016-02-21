@@ -6,7 +6,7 @@ comments: true
 categories: Reading
 ---
 
-这篇文章是[Sky Betting & Gaming](https://www.skybet.com/)网站的Principle Engineer Tom Hudson发在他们blog上的[技术文章](http://engineering.skybettingandgaming.com/2016/02/02/how-we-release-so-frequently/)，介绍他们是如何做到每天发布多次，以及这样做的好处。Sky Betting & Gaming是一家英国博彩网站，运行过程中，涉及到大量的资金流转。对数据迁移以及资金安全等方面，都有较高要求。我们不一定要像他们一样每天发布多次，但其中的思想是值得学习和探讨的，比如数据库迁移和git的feature分支流程等。因此粗译出来分享给大家，欢迎指正。
+这篇文章是[Sky Betting & Gaming](https://www.skybet.com/)网站的Principle Engineer Tom Hudson发在他们blog上的[技术文章](http://engineering.skybettingandgaming.com/2016/02/02/how-we-release-so-frequently/)，介绍他们是如何做到每天发布多次，以及这样做的好处。Sky Betting & Gaming是一家英国博彩网站，运行过程中涉及到大量的资金流转。对数据迁移以及资金安全等方面，都有较高要求。我们不一定要像他们一样每天发布多次，但其中的思想是值得学习和探讨的，比如数据库迁移和git的feature分支流程等。因此粗译出来分享给大家，欢迎指正。
 
 <!--more-->
 
