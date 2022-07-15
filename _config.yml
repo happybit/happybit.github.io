@@ -13,12 +13,12 @@ permalink:        /:year/:month/:day/:title/
 title:            Sound/Noise
 tagline:          ''
 description:      ''
-url:              http://blog.pzheng.me/
+url:              https://blog.pzheng.me/
 paginate:         5
 
 author:
   name:           'pzheng'
-  url:            http://blog.pzheng.me/
+  url:            https://blog.pzheng.me/
 
 # Custom vars
 version:          1.0.0
